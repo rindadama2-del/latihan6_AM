@@ -9,7 +9,7 @@ class Kucing {
     }
 }
 
-void main() {
+void main() { 
     final k = Kucing('Coklat'); 
     print(k.nama); 
     k.bersuara();
